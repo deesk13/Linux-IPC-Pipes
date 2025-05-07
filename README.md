@@ -191,6 +191,6 @@ void client() {
 }
 ```
 ## OUTPUT
-![alt text](<Screenshot at 2025-05-01 08-48-50-1.png>)
+![alt text](<Screenshot at 2025-05-01 08-48-50.png>)
 # RESULT:
 The program is executed successfully.
